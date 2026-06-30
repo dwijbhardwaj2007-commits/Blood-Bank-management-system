@@ -15,7 +15,7 @@ int main() {
     while (true) {
         cout << "\n=============WELCOME TO============="<<endl;;
         cout << "\n----BLOOD BANK MANAGEMENT SYSTEM----"<<endl;
-        cout << "\n========MADE BY BATCH-A5============"<<endl;
+        cout << "\n========MADE BY Dwij Bhardwaj============"<<endl;
         cout << "\n1. Donate Blood (Enter 1)";
         cout << "\n2. Request Blood (Enter 2)";
         cout << "\n3. View Blood Inventory(Enter 3)";
